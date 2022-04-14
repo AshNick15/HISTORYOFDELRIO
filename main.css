@@ -2,6 +2,32 @@
 /* CSS Document */
 
 header{
+	width: 100%;
 	text-align: center;
+	height: 55px;
+	font-size: 50px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
 }
 
+.flex-container{
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 60%;
+	justify-content: space-around;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+
+.home{
+}
+
+.about{
+}
+
+.before-and-after{
+}
+
+.Video{
+}
+
+.contact{
+}
