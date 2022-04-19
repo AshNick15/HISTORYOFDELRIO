@@ -31,3 +31,10 @@ header{
 
 .contact{
 }
+
+.iframe{
+	display: block;
+	margin-left:210px;
+	width:350px;
+	height:300px;
+}
