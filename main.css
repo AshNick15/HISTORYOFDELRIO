@@ -23,8 +23,8 @@ header{
 .about{
 }
 .imageone{
-	margin-left: 350px;
-	margin-right: 350px;
+	margin-left: auto;
+	margin-right: auto;
 	height: 350px;
 	width: 850px;
 }
