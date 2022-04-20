@@ -52,6 +52,8 @@ header{
 	border-radius: 8px;
 	column-count: 3;
 	column-gap: 25px;
+	align-items: baseline;
+	
 }
 
 
