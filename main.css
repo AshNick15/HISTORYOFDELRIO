@@ -49,8 +49,9 @@ header{
 	text-align: center;
 	height: 200px;
 	width: 300px;
-	flex-direction: row;
-	margin: 10px;
+	justify-content: space-between;
+	margin-left: 25px;
+	
 }
 
 .Video{
