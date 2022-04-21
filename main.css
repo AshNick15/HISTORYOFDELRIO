@@ -14,7 +14,8 @@ header{
 	flex-wrap: wrap;
 	font-size: 60%;
 	justify-content: space-around;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: black;
 }
 
 .home{
@@ -49,10 +50,9 @@ header{
 	text-align: center;
 	height: 200px;
 	width: 300px;
-	border-radius: 8px;
 	column-count: 3;
 	column-gap: 25px;
-	padding-left: 30px;
+	padding-left: 50px;
 }
 
 
