@@ -15,7 +15,6 @@ header{
 	font-size: 60%;
 	justify-content: space-around;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	color: black;
 }
 
 .home{
@@ -52,7 +51,7 @@ header{
 	width: 300px;
 	column-count: 3;
 	column-gap: 25px;
-	padding-left: 50px;
+	padding-left: 150px;
 }
 
 
