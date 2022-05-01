@@ -13,6 +13,8 @@ header{
 	display: flex;
 	flex-wrap: wrap;
 	font-size: 60%;
+	color:;
+	background-color: gray;
 	justify-content: space-around;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 }
