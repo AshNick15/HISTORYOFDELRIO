@@ -24,6 +24,7 @@ header{
 }
 .imageone{
 	display: block;
+	align-content: center;
 	margin-left: auto;
 	margin-right: auto;
 	width: 75%;
@@ -43,6 +44,7 @@ header{
 
 .flex-containerthree{
 	display: flex;
+	align-content: center;
 	font-family: scrivano,serif;
 	font-style: italic;
 	font-size: 30px;
