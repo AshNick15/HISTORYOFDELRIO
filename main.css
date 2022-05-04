@@ -44,15 +44,14 @@ header{
 
 .flex-containerthree{
 	display: flex;
-	align-content: center;
 	font-family: scrivano,serif;
 	font-style: italic;
 	font-size: 30px;
 	text-align: center;
 	height: 200px;
 	width: 300px;
-	justify-content: space-between;
-	margin-left: 70px;
+	flex-grow: 1;
+	justify-content: space-around;
 	
 }
 
