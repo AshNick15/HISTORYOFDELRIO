@@ -78,5 +78,5 @@ header{
 	align-items: center;
 	flex-direction: column;
 	vertical-align: middle;
-	flex-grow: 1;
+	margin-left: 100px;
 }
