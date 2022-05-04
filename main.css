@@ -51,7 +51,8 @@ header{
 	height: 200px;
 	width: 300px;
 	flex-grow: 1;
-	margin-right: auto;
+	margin-right: 70px;
+	margin-left: 70px;
 }
 
 .Video{
